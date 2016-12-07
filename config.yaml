@@ -1,0 +1,7 @@
+MaxDailyCount: 10
+Timeout: 5
+Prefix: redisCaptcha
+Options:
+  Addr: localhost:6379
+  Password: test
+  DB: 0
